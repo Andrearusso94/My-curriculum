@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.presentation {
+    background-color: darkcyan;
+}
+
+.main {
+    background-color: ghostwhite;
+}
+
+.text {
+    border-top: 3px solid black;
+}

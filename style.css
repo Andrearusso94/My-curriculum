@@ -2,6 +2,15 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    font-family: 'Noto Serif TC', serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    text-transform: uppercase;
 }
 
 .presentation {
@@ -23,4 +32,13 @@ a {
 
 .card-text {
     width: 55%;
+}
+
+li {
+    font-size: 1rem;
+}
+
+.experience,
+.education {
+    border-top: 3px solid darkcyan;
 }
